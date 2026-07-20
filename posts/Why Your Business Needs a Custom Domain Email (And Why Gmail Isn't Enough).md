@@ -11,8 +11,8 @@ In today's digital world, your email address says a lot about your business.
 
 Which of these would you trust more?
 
-- **johnsmith.business@gmail.com**
-- **john@yourcompany.co.zw**
+- johnsmith.weldmasters@gmail.com
+- john@weldmasters.co.zw
 
 While both can send and receive emails, a custom domain email immediately communicates professionalism and credibility.
 
@@ -22,17 +22,17 @@ For businesses of all sizes, a professional email address is no longer a luxuryâ
 
 A custom domain email uses your business's domain name instead of a free email service.
 
-Examples include:
+Examples include: sales@yourcompanyname.co.zw
 
-- info@yourcompany.co.zw
-- sales@yourcompany.co.zw
-- support@yourcompany.co.zw
-- accounts@yourcompany.co.zw
+- info@weldmasters.co.zw
+- sales@mhofuenterprices.co.zw
+- support@soko.co.zw
+- accounts@kuber.co.zw
 
 Instead of:
 
-- yourbusiness@gmail.com
-- yourcompany@yahoo.com
+- weldmasters@gmail.com
+- mhofu@yahoo.com
 
 Your email becomes part of your brand identity.
 
@@ -79,10 +79,10 @@ As your business grows, different departments can have their own professional em
 
 Examples include:
 
-- sales@yourcompany.co.zw
-- support@yourcompany.co.zw
-- hr@yourcompany.co.zw
-- accounts@yourcompany.co.zw
+- sales@weldmasters.co.zw
+- support@weldmasters.co.zw
+- hr@weldmasters.co.zw
+- accounts@weldmasters.co.zw
 
 This improves organization and makes it easier for customers to reach the right team.
 
