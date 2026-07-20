@@ -80,6 +80,7 @@ Modern systems favor horizontal scaling for flexibility and reliability.
 Here’s a basic backend structure using Node.js:
 
 ```js
+
 // Express server example
 const express = require("express");
 const app = express();
